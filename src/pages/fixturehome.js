@@ -1,5 +1,5 @@
 import React from 'react'
-import Away from '../components/awayteam'
+// import Away from '../components/awayteam'
 import Home from '../components/hometeam'
 import Head2Head from '../components/head2head'
 import styles from '../styles/home.module.css'

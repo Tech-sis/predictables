@@ -1,0 +1,39 @@
+body{
+    background-color: #242582;
+}
+
+.fix{
+    margin: auto;
+    width: 90%;
+    height: 100%;
+    /* background-color: rgba(0,0,0,0.5); */
+}
+
+.club{
+    /* padding: auto; */
+    margin-bottom: 10px;
+}
+
+.table{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.h1{
+    background-color: white;
+    text-align: center;
+    margin:auto;
+    color: #242582;
+    width: 250px;
+}
+
+@media screen and (max-width: 600px) {
+    .fix{
+        width: 80%;
+    }
+    .table{
+        margin-top: 10px;
+        margin-bottom: 10px;;
+    }
+}
